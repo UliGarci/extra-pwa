@@ -1,0 +1,22 @@
+{
+  "name": "pwa-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "compression": "^1.7.5",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "path": "^0.12.7",
+    "pouchdb": "^9.0.0",
+    "pouchdb-find": "^9.0.0",
+    "sweetalert2": "^11.15.2"
+  }
+}

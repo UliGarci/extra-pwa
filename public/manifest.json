@@ -1,0 +1,16 @@
+{
+  "name": "extra PWA",
+  "short_name": "extra-ulises",
+  "description": "extra - Ulises Garcia PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "/icons/icon-tienda.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
